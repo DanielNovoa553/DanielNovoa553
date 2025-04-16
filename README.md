@@ -1,5 +1,4 @@
 ## Hola soy Daniel Novoa👋
-![Banner](https://github.com/DanielNovoa553/DanielNovoa553/raw/45c1a39ade92f377acde5c39453965d3b1b6aa94/banner_daniel_novoa.png)
 
 # 👋 Sobre mí
 Ingeniero en Informática con más de 8 años de experiencia en el mundo TI, consultoría de TI y soluciones empresariales cuento con 4 años en el desarrollo backend, 
