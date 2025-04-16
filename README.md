@@ -1,10 +1,17 @@
 ## Hola soy Daniel Novoa👋
 
 # 👋 Sobre mí
+Ingeniero en Informática con más de 8 años de experiencia en el mundo TI, consultoría de TI y soluciones empresariales cuento con 4 años en el desarrollo backend, 
+Apasionado por la tecnología, he  participado en proyectos enfocados en el diseño, análisis y desarrollo de software, especialmente con tecnologías como Python (Flask, FastAPI), PHP, JavaScript, HTML, CSS, Bootstrap y jQuery.
 
-Ingeniero en Informática con más de 8 años de experiencia, nacido en el extranjero, con permiso para laborar en México y residencia permanente.
+Cuento con experiencia sólida en la construcción de APIs REST, integración de bases de datos como PostgreSQL, MySQL, SQL Server, DynamoDB y HealthLake, y despliegue de servicios en la nube con AWS.
 
-Especializado en desarrollo de software, consultoría en TI y optimización de sistemas empresariales.
+He trabajado como Backend Developer y Full Stack Developer en empresas como Ceinmer Group, SPS Solutions, Habi e Innit Group, desarrollando microservicios, soluciones integradas con motores de reservas hoteleras, y aplicaciones administrativas a medida.
+
+Además, tengo una amplia trayectoria en la administración de sistemas SAP, como Consultor en Solution Manager 7.1, y en la consultoría de soluciones empresariales sobre plataformas HPE/Microfocus.
+
+Actualmente resido en Ciudad de México, y combino mi interés por la ciencia y el universo con una mentalidad analítica y resolutiva.
+
 
 ## 💻 Backend y Full Stack
 
