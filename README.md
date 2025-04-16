@@ -60,3 +60,18 @@ También tengo habilidades en desarrollo Full Stack:
 - **AWS Certified Developer – Associate**
 - Consultor en herramientas de **Micro Focus** (SiteScope, Fortify)
 - Experiencia en **SAP Basis** y **SAP Solution Manager**
+
+## Mis Repositorios
+
+A continuación, te dejo algunos de mis proyectos más recientes:
+
+- [API_Sistema_de_Suscripciones](https://github.com/DanielNovoa553/API_Sistema_de_Suscripciones)
+- [companies](https://github.com/DanielNovoa553/companies)
+- [Crud_Flask_Docker](https://github.com/DanielNovoa553/Crud_Flask_Docker)
+- [Crud_python_get_public_api](https://github.com/DanielNovoa553/Crud_python_get_public_api)
+- [DanielNovoa553](https://github.com/DanielNovoa553/DanielNovoa553)
+- [Flask_API_COVID_19_Data](https://github.com/DanielNovoa553/Flask_API_COVID_19_Data)
+- [Practica_programacion_python](https://github.com/DanielNovoa553/Practica_programacion_python)
+- [TCP](https://github.com/DanielNovoa553/TCP)
+
+¡Si te interesa ver más detalles de mi código o contribuir, no dudes en explorar los repositorios que tambien se encuentran como favoritos debajo!
