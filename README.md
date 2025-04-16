@@ -72,92 +72,95 @@ También tengo habilidades en desarrollo Full Stack:
 - Consultor en herramientas de **Micro Focus** (SiteScope, Fortify)
 - Experiencia en **SAP Basis** y **SAP Solution Manager**
 
-Experiencia Laboral
+# 💼 Experiencia Profesional
 
-🧑‍💻 Full Stack Developer — Ceinmer Group
+## 🧠 Full Stack Developer - Ceinmer Group  
+**Ubicación:** Colombia / México - Remoto  
+**Período:** Julio 2024 – Presente  
 
-Ubicación: Colombia / México — En remotoFecha: Julio 2024 – PresenteLogros:
+**Logros destacados:**  
+- Desarrollé un sistema web para la gestión de reservas hoteleras con integración en plataformas como Expedia, Airbnb y Booking.  
+- Implementé sincronización automática para evitar sobreventa de habitaciones.  
+- Tecnologías: **Flask, Python, MariaDB, JavaScript, HTML, CSS, Bootstrap**.
 
-Desarrollo de un sistema web para la gestión de reservas hoteleras integrando plataformas como Expedia, Airbnb y Booking.
+---
 
-Prevención de conflictos de disponibilidad mediante sincronización automática entre reservas internas y externas.
+## 🛠️ Consultor Backend Python - AWS - SPS Solutions  
+**Ubicación:** Ciudad de México - Remoto  
+**Período:** Dic 2022 – Abr 2024  
 
-Backend: Flask y Python. Base de datos: MariaDB.
+**Logros destacados:**  
+- Desarrollo de microservicio para el procesamiento de datos financieros en tiempo real para Principal.  
+- Integración con servicios AWS: **S3, Lambda, DynamoDB, SQS**.  
+- Procesamiento eficiente con **Pandas**.
 
-Frontend: JavaScript, CSS, HTML y Bootstrap.
+---
 
-🐍 Consultor Desarrollador Backend Python - AWS — SPS Solutions
+## 🏘️ Backend Developer - Habi  
+**Ubicación:** Ciudad de México - Remoto  
+**Período:** Sep 2022 – Ene 2023  
 
-Ubicación: Ciudad de México — En remotoFecha: Diciembre 2022 – Abril 2024Logros:
+**Logros destacados:**  
+- Implementación de módulo para precios dinámicos de propiedades basado en antigüedad del inmueble.  
+- Tecnologías utilizadas: **Python, AWS, GCP, Big Query**.
 
-Desarrollo de microservicio para empresa financiera Principal.
+---
 
-Manejo de datos en tiempo real usando Python y Pandas.
+## 🏥 Backend Developer Python - AWS - Innit Group  
+**Ubicación:** Ciudad de México  
+**Período:** Feb 2021 – Ago 2022  
 
-Integración con servicios AWS: S3, Lambda, DynamoDB y SQS.
+**Logros destacados:**  
+- Desarrollo de microservicios REST usando **Flask**, desplegados con **Zappa** en AWS.  
+- Aplicación médica Aidicare: gestión de expedientes clínicos, diagnóstico preliminar, control de medicamentos y monitoreo en tiempo real.  
+- Servicios: **S3, Lambda, SNS, PostgreSQL, HealthLake**.
 
-Parte del escenario POS Benchmark para optimizar el rendimiento.
+---
 
-🏘️ Desarrollador Backend Python AWS — Habi
+## 💻 Consultor Técnico de TI - Innit Group  
+**Ubicación:** Ciudad de México - Híbrido  
+**Período:** Ago 2017 – Ene 2020  
 
-Ubicación: Ciudad de México — En remotoFecha: Septiembre 2022 – Enero 2023Logros:
+**Logros destacados:**  
+- Implementación de soluciones de seguridad y monitoreo para clientes como Nacional Monte de Piedad, SAT, Femsa, Banco Antigua y otros.  
+- Desarrollo en OO para ITSM (CA Technologies), Web Services para Médica Sur, y aplicaciones móviles Android (Aidicare Watch).  
+- Instructor del curso **OBM120** (Operations Bridge Manager) por Micro Focus.
 
-Módulo de precios dinámicos para propiedades.
+---
 
-Ajustes automáticos según antigüedad del inmueble.
-Tecnologías: Python, AWS, GCP, BigQuery
+## 🧾 SAP Basis & Solution Manager Specialist - EAS Consulting  
+**Ubicación:** Ciudad de México  
+**Período:** Ago 2015 – Abr 2017  
 
-🩺 Desarrollador Backend Python AWS — Innit Group
+**Logros destacados:**  
+- Implementaciones de escenarios **ChaRM**, **ITSM**, y **CTS+** en Solution Manager.  
+- Trainer en módulos de SAP para El Rosado (Ecuador), ICA (México), entre otros.
 
-Ubicación: Ciudad de MéxicoFecha: Febrero 2021 – Agosto 2022Logros:
+---
 
-Desarrollo de microservicios REST con Flask, desplegados con Zappa en AWS.
+## 🏢 SAP Basis Consultant - Infonavit  
+**Ubicación:** Ciudad de México - Remoto  
+**Período:** Mar 2014 – Ago 2015  
 
-Integración con servicios como S3, Lambda, HealthLake y PostgreSQL.
+**Logros destacados:**  
+- Configuración de Solution Manager, aplicación de Support Packages y Patches.  
+- Instalación de sistemas (TREX, Content Server), ajustes de kernel, tuning de CRM y SRM.  
+- Desarrollo de reportes para auditoría interna.
 
-Backend de la app Aidicare para gestión de expediente clínico, control de síntomas y monitoreo en tiempo real.
+---
 
-🧑‍💼 Consultor Técnico de TI — Innit Group
+## 📚 Desarrollador de Software - Soft Servi  
+**Ubicación:** Ciudad de México / Venezuela  
+**Período:** Ago 2013 – Ene 2014  
 
-Ubicación: Ciudad de México — HíbridoFecha: Agosto 2017 – Enero 2020Logros:
+**Logros destacados:**  
+- Desarrollo de un Aula Virtual para el Liceo Francisco Alvarado (PHP, HTML5, CSS, JS, jQuery, PostgreSQL).  
+- Sistema de control de transporte para un instituto agroindustrial.  
+- Sistema de control de acceso con **Visual FoxPro** y bases de datos **.dbf / .dbc**.
 
-Instalación/configuración de soluciones Micro Focus: Fortify, Web Inspect, DB Vertica, Sitescope, RUM, NNM, OO.
+---
 
-Soporte y desarrollo de procesos orquestados en OO.
 
-Desarrollo de Web Services médicos y apps móviles Android.
-
-Capacitación en OBM120 y herramientas de monitoreo Micro Focus.
-
-🔧 SAP Basis and SAP Solution Manager Specialist — EAS Consulting
-
-Ubicación: Ciudad de México — PresencialFecha: Agosto 2015 – Abril 2017Logros:
-
-Implementaciones de escenarios ChaRM, SMSP, ITSM y CTS+.
-
-Capacitación como trainer en módulos SAP: HANA Monitoring, Solution Documentation, ChaRM, etc.
-
-🧠 SAP Basis Consultant — Infonavit
-
-Ubicación: Ciudad de México — En remotoFecha: Marzo 2014 – Agosto 2015Logros:
-
-Generación de reportes de auditoría EWAS.
-
-Configuración de Solution Manager y sistemas Java.
-
-Instalación de TREX, Content Server, parches y notas.
-
-Administración de roles y perfiles SAP.
-
-💻 Desarrollador de Software — Soft Servi
-
-Ubicación: Ciudad de México / Venezuela — PresencialFecha: Agosto 2013 – Enero 2014Logros:
-
-Aula Virtual para el Liceo Francisco Alvarado usando PHP, HTML5, CSS, JavaScript, jQuery y PostgreSQL.
-
-Sistema de transporte para Instituto de Tecnología Agroindustrial.
-
-Control de acceso para universidad IUTFRONT con Visual Fox Pro y bases de datos .dbf / .dbc.
 
 ## Mis Repositorios
 
