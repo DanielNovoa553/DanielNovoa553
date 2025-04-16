@@ -72,6 +72,93 @@ También tengo habilidades en desarrollo Full Stack:
 - Consultor en herramientas de **Micro Focus** (SiteScope, Fortify)
 - Experiencia en **SAP Basis** y **SAP Solution Manager**
 
+Experiencia Laboral
+
+🧑‍💻 Full Stack Developer — Ceinmer Group
+
+Ubicación: Colombia / México — En remotoFecha: Julio 2024 – PresenteLogros:
+
+Desarrollo de un sistema web para la gestión de reservas hoteleras integrando plataformas como Expedia, Airbnb y Booking.
+
+Prevención de conflictos de disponibilidad mediante sincronización automática entre reservas internas y externas.
+
+Backend: Flask y Python. Base de datos: MariaDB.
+
+Frontend: JavaScript, CSS, HTML y Bootstrap.
+
+🐍 Consultor Desarrollador Backend Python - AWS — SPS Solutions
+
+Ubicación: Ciudad de México — En remotoFecha: Diciembre 2022 – Abril 2024Logros:
+
+Desarrollo de microservicio para empresa financiera Principal.
+
+Manejo de datos en tiempo real usando Python y Pandas.
+
+Integración con servicios AWS: S3, Lambda, DynamoDB y SQS.
+
+Parte del escenario POS Benchmark para optimizar el rendimiento.
+
+🏘️ Desarrollador Backend Python AWS — Habi
+
+Ubicación: Ciudad de México — En remotoFecha: Septiembre 2022 – Enero 2023Logros:
+
+Módulo de precios dinámicos para propiedades.
+
+Ajustes automáticos según antigüedad del inmueble.
+Tecnologías: Python, AWS, GCP, BigQuery
+
+🩺 Desarrollador Backend Python AWS — Innit Group
+
+Ubicación: Ciudad de MéxicoFecha: Febrero 2021 – Agosto 2022Logros:
+
+Desarrollo de microservicios REST con Flask, desplegados con Zappa en AWS.
+
+Integración con servicios como S3, Lambda, HealthLake y PostgreSQL.
+
+Backend de la app Aidicare para gestión de expediente clínico, control de síntomas y monitoreo en tiempo real.
+
+🧑‍💼 Consultor Técnico de TI — Innit Group
+
+Ubicación: Ciudad de México — HíbridoFecha: Agosto 2017 – Enero 2020Logros:
+
+Instalación/configuración de soluciones Micro Focus: Fortify, Web Inspect, DB Vertica, Sitescope, RUM, NNM, OO.
+
+Soporte y desarrollo de procesos orquestados en OO.
+
+Desarrollo de Web Services médicos y apps móviles Android.
+
+Capacitación en OBM120 y herramientas de monitoreo Micro Focus.
+
+🔧 SAP Basis and SAP Solution Manager Specialist — EAS Consulting
+
+Ubicación: Ciudad de México — PresencialFecha: Agosto 2015 – Abril 2017Logros:
+
+Implementaciones de escenarios ChaRM, SMSP, ITSM y CTS+.
+
+Capacitación como trainer en módulos SAP: HANA Monitoring, Solution Documentation, ChaRM, etc.
+
+🧠 SAP Basis Consultant — Infonavit
+
+Ubicación: Ciudad de México — En remotoFecha: Marzo 2014 – Agosto 2015Logros:
+
+Generación de reportes de auditoría EWAS.
+
+Configuración de Solution Manager y sistemas Java.
+
+Instalación de TREX, Content Server, parches y notas.
+
+Administración de roles y perfiles SAP.
+
+💻 Desarrollador de Software — Soft Servi
+
+Ubicación: Ciudad de México / Venezuela — PresencialFecha: Agosto 2013 – Enero 2014Logros:
+
+Aula Virtual para el Liceo Francisco Alvarado usando PHP, HTML5, CSS, JavaScript, jQuery y PostgreSQL.
+
+Sistema de transporte para Instituto de Tecnología Agroindustrial.
+
+Control de acceso para universidad IUTFRONT con Visual Fox Pro y bases de datos .dbf / .dbc.
+
 ## Mis Repositorios
 
 A continuación, te dejo algunos de mis proyectos más recientes:
