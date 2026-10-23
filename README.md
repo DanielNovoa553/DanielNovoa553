@@ -63,9 +63,12 @@ También tengo habilidades en desarrollo Full Stack:
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### IA Generativa (en formación)
+### IA Generativa
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### ERP & Consultoría
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
@@ -82,9 +85,13 @@ También tengo habilidades en desarrollo Full Stack:
 
 ## ☁️ Certificaciones y formación
 
-- **AWS Certified Developer – Associate** (DVA-C01)
+- **AWS Certified Developer – Associate** (DVA-C01) — [Ver credencial](https://www.credly.com/badges/2d8114ba-dceb-4bee-91f0-0ac4c6e3e65f?source=linked_in_profile)
 - **Ingeniería en Informática** — IUT, Instituto de Tecnología Agroindustrial (2008–2014)
-- **Google Cloud Skills (2026):** Introduction to Vertex AI Studio · Responsible AI: Applying AI Principles with Google Cloud · Introduction to Large Language Models · Introduction to Generative AI
+- **Google Cloud Skills (2026):**
+  - [Introduction to Vertex AI Studio] — [Ver credencial](https://www.skills.google/public_profiles/6e623401-dc22-4531-94b6-b1b2ef863b80/badges/28852468?locale=es)
+  - [Responsible AI: Applying AI Principles with Google Cloud] — [Ver credencial](https://www.skills.google/public_profiles/6e623401-dc22-4531-94b6-b1b2ef863b80/badges/28670763?locale=es)
+  - [Introduction to Large Language Models] — [Ver credencial](https://www.skills.google/public_profiles/6e623401-dc22-4531-94b6-b1b2ef863b80/badges/27914543?locale=es)
+  - [Introduction to Generative AI] — [Ver credencial](https://www.skills.google/public_profiles/6e623401-dc22-4531-94b6-b1b2ef863b80/badges/27803933?locale=es)
 - Consultor en herramientas de **Micro Focus** (SiteScope, Fortify)
 - Experiencia en **SAP Basis** y **SAP Solution Manager**
 
@@ -223,10 +230,12 @@ También tengo habilidades en desarrollo Full Stack:
 
 ## 🚀 Proyectos personales
 
-- **MindSupport:** plataforma web de bienestar emocional con seguimiento del estado de ánimo, diario, módulo de gratitud, comunidad, chat, notificaciones push y exportación a PDF.
-- **Verdea:** plataforma de gestión agropecuaria (fincas, lotes, animales, inventario, finanzas) con arquitectura modular, alertas programadas y API interna.
-- **FinZen:** aplicación de finanzas personales con dashboard personalizable y análisis de patrones de gasto.
-- **MODIGENE:** e-commerce mayorista de fragancias con WordPress, WooCommerce y PHP — [www.modigeneshop.com](https://www.modigeneshop.com)
+**Stack común (MindSupport, Verdea y FinZen):** Python, **Flask**, Flask-SQLAlchemy, Flask-Migrate, Flask-Login, Flask-Mail, APScheduler, Jinja2, HTML, CSS, JavaScript, SQLite y PostgreSQL.
+
+- **MindSupport:** plataforma web de bienestar emocional con seguimiento del estado de ánimo, diario, módulo de gratitud, tablero de estadísticas, exámenes psicológicos, comunidad con feed y grupos, chat grupal y 1 a 1, notificaciones push y exportación a PDF.
+- **Verdea:** plataforma de gestión agropecuaria (fincas, lotes, animales, inventario, empleados, finanzas y reportes) con arquitectura modular con blueprints, procesos programados para alertas operativas, API interna y notificaciones push/email.
+- **FinZen:** aplicación de finanzas personales con presupuestos, metas, recordatorios y reportes, dashboard personalizable con widgets dinámicos y drag-and-drop, y análisis de patrones de gasto para reducir gastos hormiga.
+- **MODIGENE:** e-commerce mayorista de fragancias a granel con **WordPress, WooCommerce, PHP, HTML5 y CSS3**, con lógica de mayoreo personalizada y más de 80 productos — [www.modigeneshop.com](https://www.modigeneshop.com)
 
 ## Mis Repositorios
 
