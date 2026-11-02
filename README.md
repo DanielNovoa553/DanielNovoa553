@@ -241,12 +241,12 @@ También tengo habilidades en desarrollo Full Stack:
 
 A continuación, te dejo algunos de mis proyectos más recientes:+
 
-- [Procesador_de_documentos_IA](https://github.com/DanielNovoa553/procesador-documentos-ia)
-- [Agente_Portafolio_Adaptivo](https://github.com/DanielNovoa553/agente-portafolio-adaptivo)
-- [API_Sistema_de_Suscripciones](https://github.com/DanielNovoa553/API_Sistema_de_Suscripciones)
+- [Procesador de documentos IA](https://github.com/DanielNovoa553/procesador-documentos-ia)
+- [Agente Portafolio Adaptivo IA](https://github.com/DanielNovoa553/agente-portafolio-adaptivo)
+- [API Sistema de Suscripciones](https://github.com/DanielNovoa553/API_Sistema_de_Suscripciones)
 - [NYSE Data Bolsa de NY](https://github.com/DanielNovoa553/companies)
-- [Crud_Flask_Docker](https://github.com/DanielNovoa553/Crud_Flask_Docker)
-- [Crud_python_get_public_api](https://github.com/DanielNovoa553/Crud_python_get_public_api)
+- [Consolidación de compras mediante ETL automatizado]([https://github.com/DanielNovoa553/Crud_Flask_Docker](https://github.com/DanielNovoa553/etl-compras-postgresql-api))
+- [Crud python get public api](https://github.com/DanielNovoa553/Crud_python_get_public_api)
 - [Flask_API_COVID_19_Data](https://github.com/DanielNovoa553/Flask_API_COVID_19_Data)
 
 ¡Si te interesa ver más detalles de mi código o contribuir, no dudes en explorar los repositorios que también se encuentran como favoritos debajo!
