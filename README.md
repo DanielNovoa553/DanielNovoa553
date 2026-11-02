@@ -239,8 +239,10 @@ También tengo habilidades en desarrollo Full Stack:
 
 ## Mis Repositorios
 
-A continuación, te dejo algunos de mis proyectos más recientes:
+A continuación, te dejo algunos de mis proyectos más recientes:+
 
+- [Procesador_de_documentos_IA](https://github.com/DanielNovoa553/procesador-documentos-ia)
+- [Agente_Portafolio_Adaptivo](https://github.com/DanielNovoa553/agente-portafolio-adaptivo)
 - [API_Sistema_de_Suscripciones](https://github.com/DanielNovoa553/API_Sistema_de_Suscripciones)
 - [companies](https://github.com/DanielNovoa553/companies)
 - [Crud_Flask_Docker](https://github.com/DanielNovoa553/Crud_Flask_Docker)
