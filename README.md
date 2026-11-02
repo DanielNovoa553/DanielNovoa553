@@ -246,7 +246,7 @@ A continuación, te dejo algunos de mis proyectos más recientes:+
 - [API Sistema de Suscripciones](https://github.com/DanielNovoa553/API_Sistema_de_Suscripciones)
 - [NYSE Data Bolsa de NY](https://github.com/DanielNovoa553/companies)
 - [Consolidación diaria de compras con ETL, PostgreSQL y API REST](https://github.com/DanielNovoa553/etl-compras-postgresql-api)
-- [Crud python get public api](https://github.com/DanielNovoa553/Crud_python_get_public_api)
+- [Salud global dashboard](https://github.com/DanielNovoa553/salud-global-dashboard)
 - [Flask_API_COVID_19_Data](https://github.com/DanielNovoa553/Flask_API_COVID_19_Data)
 
 ¡Si te interesa ver más detalles de mi código o contribuir, no dudes en explorar los repositorios que también se encuentran como favoritos debajo!
