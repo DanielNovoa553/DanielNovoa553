@@ -245,7 +245,7 @@ A continuación, te dejo algunos de mis proyectos más recientes:+
 - [Agente Portafolio Adaptivo IA](https://github.com/DanielNovoa553/agente-portafolio-adaptivo)
 - [API Sistema de Suscripciones](https://github.com/DanielNovoa553/API_Sistema_de_Suscripciones)
 - [NYSE Data Bolsa de NY](https://github.com/DanielNovoa553/companies)
-- [Consolidación de compras mediante ETL automatizado]([https://github.com/DanielNovoa553/Crud_Flask_Docker](https://github.com/DanielNovoa553/etl-compras-postgresql-api)
+- [Consolidación diaria de compras con ETL, PostgreSQL y API REST](https://github.com/DanielNovoa553/etl-compras-postgresql-api)
 - [Crud python get public api](https://github.com/DanielNovoa553/Crud_python_get_public_api)
 - [Flask_API_COVID_19_Data](https://github.com/DanielNovoa553/Flask_API_COVID_19_Data)
 
